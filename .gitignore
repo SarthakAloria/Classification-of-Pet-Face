@@ -19,3 +19,4 @@ data/
 .DS_Store
 Thumbs.db
 .vscode/
+"saved_models/best_model.h5" 
