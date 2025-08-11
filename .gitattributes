@@ -1,0 +1,6 @@
+# Set line endings for notebooks to LF only (recommended)
+*.ipynb text eol=lf
+
+# For other text files, you can enforce normalization
+*.py text eol=lf
+*.md text eol=lf
