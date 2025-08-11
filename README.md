@@ -138,7 +138,7 @@ python predict.py --image_path sample_images/cat_01.jpg
 1. Install deps:
 ```bash
 pip install -r requirements.txt
-
+```
 ---
 ## 🛠 Tech Stack
 
