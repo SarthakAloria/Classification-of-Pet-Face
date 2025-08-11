@@ -124,7 +124,7 @@ python predict.py --image_path sample_images/cat_01.jpg
 
 ### Visual examples
 <p float="left">
-  <img src="Screenshots\training_validation.png" alt="Loss and accuracy curves" width="220" />
+  <img src="screenshots\training_validation.png" alt="Loss and accuracy curves" width="220" />
   <img src="reports\saliency\sample_0.png" alt="Saliency map overlay" width="220" />
   <img src="reports\occlusion\sample_0.png" alt="Occlusion sensitivity overlay" width="220" />
   <img src="reports\embedding\embedding_tsne.png" alt="t-SNE of embeddings" width="220" />
