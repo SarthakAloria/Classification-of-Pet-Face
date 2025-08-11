@@ -87,6 +87,13 @@ jupyter notebook
 ---
 ## 🚀 Usage / Example
 
+### 0️⃣ Download the Pretrained Model
+
+Before running the notebook or prediction script, download the pretrained model by running:
+
+```bash
+python scripts/download_weights.py
+```
 ### 1️⃣ Run the Jupyter Notebook (Interactive Training & Testing)
 ```bash
 
